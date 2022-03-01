@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="27032cc9-5206-4de7-b767-3bc09e487f0f" name="progserv1" url="http://progserv1.test">
+        <fileTransfer mountedRoot="C:\laragon\www\progserv1" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
